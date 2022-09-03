@@ -19,6 +19,6 @@
 8. Go to github and create a new repository with the names required for the assignment.
 9. Use `git remote add origin git@github.com:mehul-deep/assignment-1.git` (Get this link from the new repository made in no.8)
 10. Use `git push -u origin main`
-11. Close git bash.
+11. Use `git remote rm origin`
 
 
